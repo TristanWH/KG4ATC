@@ -14,15 +14,15 @@ Here, we collated the papers about knowledge graph processing of Automatic-text-
 
 - **Climate paleogeography knowledge graph and deep time paleoclimate classifications**  <br>
 [Geoscience Frontiers] ()  　Elsevier  <br> 
-[网页](https://webvpn.swu.edu.cn/https/537775736869676568616f78756565212aae45f5669e8284c2452c5617bff55d0637181960/science/article/pii/S1674987122001037) <br>
+[PDF](https://www.sciencedirect.com/science/article/pii/S1674987122001037) <br>
 
 - **Knowledge graph informed fake news classification via heterogeneous representation ensembles**  <br>
 [Neurocomputing] ()  　Elsevier  <br> 
-[网页](https://webvpn.swu.edu.cn/https/537775736869676568616f78756565212aae45f5669e8284c2452c5617bff55d0637181960/science/article/pii/S0925231222001199) <br>
+[PDF](https://www.sciencedirect.com/science/article/pii/S0925231222001199) <br>
 
 - **High-Quality Article Classification Based on Named Entities of Knowledge Graph and Multi-head Attention**  <br>
 [CCKS] ()  　Springer  <br> 
-[网页](http://link-springer-com-s.sangfor.vpn.swu.edu.cn:8118/chapter/10.1007/978-981-19-8300-9_12) <br>
+[网页](https://link.springer.com/chapter/10.1007/978-981-19-8300-9_12) <br>
 
 - **Question Answering on Agricultural Knowledge Graph Based on Multi-label Text Classification**  <br>
 [ICCSIP] ()  　Springer  <br> 
